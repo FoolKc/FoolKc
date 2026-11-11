@@ -1,27 +1,27 @@
 # Hi, I'm foolkc
 
-I'm a game developer working with Unity and C#. I also enjoy writing stories
-and designing characters for the worlds I build. Lately I've been making
-small tools around local AI companions, and picking up JavaScript and Python
-along the way.
+Game developer working with **Unity** and **C#**.
+I write stories and design characters for the worlds I build.
+Lately I make small tools around local AI companions, and I'm learning
+JavaScript and Python along the way.
 
 ## Projects
 
-**[OLV Watch-Along](https://github.com/FoolKc/olv-watch-along)**
+### [OLV Watch-Along](https://github.com/FoolKc/olv-watch-along)
 
 An add-on for Open-LLM-VTuber. Your AI character sees what you are watching
 on YouTube, comments on it, and controls playback when you ask.
-Firefox extension + local Python bridge + MCP server.
+
+`Firefox extension` · `Python bridge` · `MCP server`
 
 ## Open source contributions
 
-**[AIRI](https://github.com/moeru-ai/airi)** (moeru-ai/airi)
+### [AIRI](https://github.com/moeru-ai/airi) · web extension plugin
 
-Fixes and improvements to the web extension plugin. One pull request is
-merged and shipped in v0.15.2, more are in review.
-
-[See my pull requests](https://github.com/moeru-ai/airi/pulls?q=author%3AFoolKc)
+- **Merged** · [#3433](https://github.com/moeru-ai/airi/pull/3433) Connect to the channel server and deliver notifications to the stage (shipped in v0.15.2)
+- **Merged** · [#3461](https://github.com/moeru-ai/airi/pull/3461) Notify the stage once per watched video
+- More in review · [see all my pull requests](https://github.com/moeru-ai/airi/pulls?q=author%3AFoolKc)
 
 ## Tools
 
-C# · Unity · JavaScript · Python · Git
+`C#` · `Unity` · `JavaScript` · `Python` · `Git`
