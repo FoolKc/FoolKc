@@ -1,11 +1,21 @@
 # Hi, I'm foolkc
 
-Game developer working with **Unity** and **C#**.
+Game developer working with **Unity** and **C#**, and currently building a game in **Godot 4**.
 I write stories and design characters for the worlds I build.
 Lately I make small tools around local AI companions, and I'm learning
 JavaScript and Python along the way.
 
 ## Projects
+
+### Dungeon Companion *(in development · private)*
+
+A turn-based roguelike dungeon crawler. Combat uses timed defense: dodge or parry
+each enemy hit, including multi-hit combos, and build up shards to spend on skills.
+Runs are played on a branching paper map with elites, rest rooms and double battles,
+and reward screens let you take, banish or skip weapons, items and relics.
+A companion character travels with you and reacts to what happens in the fight.
+
+`Godot 4` · `GDScript` · `Roguelike` · `Turn-based`
 
 ### [OLV Watch-Along](https://github.com/FoolKc/olv-watch-along)
 
@@ -24,4 +34,4 @@ on YouTube, comments on it, and controls playback when you ask.
 
 ## Tools
 
-`C#` · `Unity` · `JavaScript` · `Python` · `Git`
+`C#` · `Unity` · `Godot` · `GDScript` · `JavaScript` · `Python` · `Git`
