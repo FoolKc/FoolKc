@@ -17,6 +17,15 @@ A companion character travels with you and reacts to what happens in the fight.
 
 `Godot 4` · `GDScript` · `Roguelike` · `Turn-based`
 
+### [OLV Desktop Companion](https://github.com/FoolKc/olv-desktop-companion) *(experimental · contributions welcome)*
+
+A desktop companion toolkit for Open-LLM-VTuber on Windows. The character watches YouTube
+with you, looks at your screen when you ask, opens your apps, keeps notes in a safe folder
+and remembers things about you. Anything that cannot be undone asks you first, and the
+safety rules live in code, so text in a video or a file cannot make the character act on its own.
+
+`Python` · `MCP server` · `Windows` · `Prompt-injection aware`
+
 ### [OLV Watch-Along](https://github.com/FoolKc/olv-watch-along)
 
 An add-on for Open-LLM-VTuber. Your AI character sees what you are watching
